@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,ikea.com
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,suggest.perplexity.ai
+DOMAIN-KEYWORD,perplexity
